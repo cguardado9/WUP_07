@@ -74,8 +74,14 @@ Men in korea died at about twice the rate of women of Covid -19 , 36 % were fema
 
 ## Inferential results 
 
+```{r}
+chisq.test(table1)
+chisqtestGC(table1)
+fisher.test(table1)
+```
 
 
+The p vaule is 0.001 which is not suffivent information meaning i regret the null hypothesis.
 
 ## Conclusions
 
