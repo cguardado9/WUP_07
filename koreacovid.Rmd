@@ -81,7 +81,8 @@ fisher.test(table1)
 ```
 
 
-The p vaule is 0.001 which is not suffivent information meaning i regret the null hypothesis.
+The p value is 0.001 which is not sufficient information meaning I regret the null hypothesis.
 
 ## Conclusions
 
+We reject the null hypothesis because the p value is low to accept. Korea men died twice more than women in korea meaning its dependent on sex.
